@@ -1,4 +1,4 @@
-# Healthcare Readmission Analysis
+# Healthcare Re-Admission Analysis
 
 ## Overview
 This project analyzes 30-day hospital readmission patterns among diabetic patients to identify key risk factors and support hospitals in improving discharge planning and reducing avoidable readmissions.
